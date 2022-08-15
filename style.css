@@ -59,7 +59,7 @@ nav > a > button:hover {
 }
 
 div.elioenai{
-    width: 93.5%;
+    width: 87.8%;
     height: 100%;
     background-color: lightblue;
     border-radius: 8px;
@@ -111,6 +111,7 @@ main {
     background-color: var(--cor4);
     border-radius: 20px;
     position: inherit;
+    padding: 2%;
 }
 
 main > h1 {
